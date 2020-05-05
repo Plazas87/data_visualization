@@ -1,0 +1,98 @@
+2020-05-04 20:45:47,053;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:45:47,053;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 20:45:47,136;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 20:54:17,899;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:54:17,899;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 20:54:17,952;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 20:55:14,166;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:55:14,171;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 20:55:14,322;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 20:55:28,539;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:55:28,539;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 20:55:28,609;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 20:55:52,389;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:55:52,389;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 20:55:52,470;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 20:56:13,573;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:56:13,573;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 20:56:13,763;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 20:57:13,625;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:57:13,626;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 20:57:20,861;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:57:20,861;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 20:59:10,755;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:59:10,756;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 20:59:48,150;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 20:59:48,154;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:00:27,813;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:00:27,815;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:01:01,467;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:01:01,471;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:02:28,643;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:02:28,643;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:02:32,424;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:02:32,428;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:02:52,703;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:02:52,703;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:03:47,633;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:03:47,635;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:04:34,576;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:04:34,578;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:05:23,482;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 21:05:42,608;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:05:42,611;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:05:42,687;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 21:05:50,450;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:05:50,450;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:05:50,518;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 21:07:56,336;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:07:56,339;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:07:56,414;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-04 21:08:27,471;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:08:27,472;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:08:27,563;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-04 21:09:11,637;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:09:11,638;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:09:11,695;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-04 21:09:31,344;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:09:31,344;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:09:31,448;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-04 21:09:44,714;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:09:44,714;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:09:44,801;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-04 21:09:49,692;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:09:49,692;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:09:49,779;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-04 21:16:27,063;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:16:27,063;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:16:27,166;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-04 21:17:10,761;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:17:10,761;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:17:10,823;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-04 21:17:56,751;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:17:56,751;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:17:56,839;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-04 21:18:24,624;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-04 21:18:24,624;INFO;root;db_controller;__init__;Starting database controller
+2020-05-04 21:18:24,702;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-05 11:57:41,717;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-05 11:57:41,717;INFO;root;db_controller;__init__;Starting database controller
+2020-05-05 11:57:41,866;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-05 12:04:21,932;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-05 12:04:21,937;INFO;root;db_controller;__init__;Starting database controller
+2020-05-05 12:04:21,977;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-05 12:04:51,907;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-05 12:04:51,907;INFO;root;db_controller;__init__;Starting database controller
+2020-05-05 12:04:52,057;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-05 12:08:55,081;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-05 12:08:55,081;INFO;root;db_controller;__init__;Starting database controller
+2020-05-05 12:08:55,124;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-05 12:09:25,441;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-05 12:09:25,441;INFO;root;db_controller;__init__;Starting database controller
+2020-05-05 12:09:25,517;INFO;root;db_controller;selectQuery;PostgreSQL connection has been closed but an Exception has been raised
+2020-05-05 12:10:40,234;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-05 12:10:40,234;INFO;root;db_controller;__init__;Starting database controller
+2020-05-05 12:10:40,304;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
+2020-05-05 13:21:43,644;INFO;root;built_configuration;__init__;Built main configuration object
+2020-05-05 13:21:43,649;INFO;root;db_controller;__init__;Starting database controller
+2020-05-05 13:21:43,692;INFO;root;db_controller;selectQuery;PostgreSQL connection is closed
